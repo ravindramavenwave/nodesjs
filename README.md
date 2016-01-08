@@ -37,3 +37,22 @@ Learning Objectives - In this module, you will briefly learn about the various a
 We will also start working on a To-Do List App Project. We will be discussing how to go about the development and coding. In this project, you will be using all the features of Node.js and the allied technologies you have learned during the course.
 
 Topics - Cluster Module, Utilities Module, ZLIB, Passport, Isomorphic JavaScript over Node.js – an Introduction to Meteor, Node.js in Robotics, Desktop Application Development using Node.js.
+
+*****************************  Project Work for the course ************************************
+Project Work
+Towards the end of the Course, you will be working on live projects:
+
+Project 1:  To-do List App
+Project Description: A To-Do List Application where users can create Lists of Tasks to complete. Your application must have the following features :-
+1. Users should be able to add, edit and delete tasks created by them
+2. Users should be able to share their lists with other users and collaborate
+3. Users must be able to delete completed tasks
+Use MongoDB as the DB, ExpressJS for Application and Routing Logic, Jade/Hogan/Handlebars for HTML templates   
+                   
+Project 2:  Chat Application
+Project Description: A chat application, with rooms for different topics. The Application must have the following features:
+1. Users can chat with other users within the same room
+2. Two types of chat: a) Private Chat b) Public Chat
+3. Optional Feature: emoticons !!
+Why Learn Node.js?
+Node.js uses JavaScript - a language known to millions of developers worldwide - thus giving it a much lower learning curve even for complete beginners. Using Node.js you can build simple Command Line programs or complex enterprise level web applications with equal ease. Node.js is an event-driven, server-side, asynchronous development platform with lightning speed execution. Node.js helps you to code the most complex functionalities in just a few lines of code.
